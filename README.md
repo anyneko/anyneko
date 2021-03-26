@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+As you see, I'm a student. Also I comes from China, interested in many things.  
+Wish you can make friend with me (laugh
 <!--
 **anyNeko/anyNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
