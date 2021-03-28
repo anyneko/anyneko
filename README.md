@@ -1,5 +1,5 @@
 ### Hi there 👋
-![anyN's github stats](https://github-readme-stats.vercel.app/api?username=anyNeko) 
+![anyN's github stats](https://github-readme-stats.vercel.app/api?username=anyNeko&hide=commits) 
 As you see, I'm a student. Also I comes from China, interested in many things.  
 Wish you can make friend with me (laugh
 Some important facts are on the left.  
