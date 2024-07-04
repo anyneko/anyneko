@@ -1,4 +1,4 @@
-## Hi, I'm Sirasato Anyneko!
+## Hi, I'm Sirasato Aneko!
 > 只是一条无名的咸鱼罢了。   
 > Just a nameless salted fish.
 
