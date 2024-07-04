@@ -1,8 +1,8 @@
-## Hi, I'm Sirasato Anyneko!
+## Hi, I'm Sirasato Aneko!
 > 只是一条无名的咸鱼罢了。   
 > Just a nameless salted fish.
 
-* 中文称呼是任意猫或者大猫猫。`Sirasato`的翻译是`北橋`（作为一个姓氏）。
+* 中文称呼是任意猫或者大猫猫。“Sirasato”的翻译是“北橋”（作为一个姓氏）。
 
 * Being She/Her as a transgender. However in daily life I prefer They/Them to avoid social problems(I actually don't mind them too much.)
 * 18 y.o., Just finished high school and preparing for the next step.
