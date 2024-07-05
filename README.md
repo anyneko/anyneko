@@ -2,14 +2,14 @@
 > 只是一条无名的咸鱼罢了。   
 > Just a nameless salted fish.
 
-* 🐱 中文称呼是任意猫或者大猫猫。“Sirasato”的翻译是“北橋”（作为一个姓氏）。
+* 🐱 You can call me "任意猫" or "大猫猫" in Chinese. "Sirasato" means “北橋” (as a Japanese surname).
 
-* 🏳️‍⚧️ Transgender She/Her. They/Them are also OK(I actually don't care much about these).
-* 🎓 18 y.o., Just finished high school.
-* 💻 C++/Python, but I actually forgot them over time. I'll try to pick them up and learn something new.
+* 🏳️‍⚧️ Transgender She/Her. They/Them are also OK(I don't care much about pronouns).
+* 🎓 18 years old, Just finished high school.
+* 💻 C++/Python(although I have forgotten part of them over time). I'll try to pick them up and learn something new.
 * 🌐 Chinese(Mandarin), English.
-* ❄️ Regretfully, I don't use NixOS or eweOS(). I use Debian and KDE Plasma and I enjoys them.
-* 💊 I'm still suffering from bipolar disorder and ASD. I apologize for any bad experiences this may have caused you.
+* ❄️ Regretfully, I don't use NixOS or eweOS(). I use Debian and KDE Plasma and enjoy them.
+* 💊 I suffer from bipolar disorder and ASD, and I apologize for any bad experiences this may have caused.
 * 🟢 Ingress Enlightment Agent.
 * 🎮 Maimai DX / Chunithm / Wangan MMT Player.
 * 🔐 PGP: `72F4 E302 D385 CB24 3186 705F 9EEF A177 0CFB AEF5`
