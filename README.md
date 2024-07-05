@@ -2,7 +2,7 @@
 > 只是一条无名的咸鱼罢了。   
 > Just a nameless salted fish.
 
-* 中文称呼是任意猫或者大猫猫。“Sirasato”的翻译是“北橋”（作为一个姓氏）。
+* 🐱 中文称呼是任意猫或者大猫猫。“Sirasato”的翻译是“北橋”（作为一个姓氏）。
 
 * 🏳️‍⚧️ Transgender She/Her. They/Them are also OK(I actually don't mind them too much).
 * 🎓 18 y.o., Just finished high school.
@@ -16,6 +16,7 @@
 
 > When that day comes, will you present me with a bouquet of flowers?
 
-![github stats](https://github-readme-stats.vercel.app/api?username=anyneko&show_icons=true&title_color=f19483)
+![github stats](https://github-readme-stats.vercel.app/api?username=anyneko&show_icons=true&title_color=f19483&icon_color=f19483)
+![github langs](https://github-readme-stats.vercel.app/api/top-langs?username=anyneko&show_icons=true&title_color=9483f1&icon_color=9483f1&layout=compact)
 ![曾经在某处拍的一张照片。用来做梦核或者旧核刚刚好。](PANO_20170304_153510.jpg)
 > 死掉了就太可惜啦。陪你多走一程，好不好？
