@@ -11,7 +11,7 @@
 * ❄️ Regretfully, I don't use NixOS or eweOS(). I use Debian and KDE Plasma and I enjoys them.
 * 💊 I'm suffering form bipolar disorder and ASD. I apologize for any negative experiences this may have caused you.
 * 🟢 Ingress Enlightment Agent.
-* 🎮 Maimai DX / Chunitum / Wangan MMT Player.
+* 🎮 Maimai DX / Chunithm / Wangan MMT Player.
 * 🔐 PGP: `72F4 E302 D385 CB24 3186 705F 9EEF A177 0CFB AEF5`
 * 🎵 [再会 / はるまきごはんVocal ver. \ Reunion / Harumaki Gohan Vocal ver.](https://www.youtube.com/watch?v=U0bTlwXLUmM)
 
