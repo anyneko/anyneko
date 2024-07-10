@@ -1,8 +1,8 @@
-## Hi, I'm Sirasato Aneko!
+## Hi, I'm Katahasi Aneko!
 > 只是一条无名的咸鱼罢了。   
 > Just a nameless salted fish.
 
-* 🐱 You can call me "任意猫" or "大猫猫" in Chinese. "Sirasato" means “北橋” (as a Japanese surname).
+* 🐱 You can call me "任意猫" or "大猫猫" in Chinese.
 
 * 🏳️‍⚧️ Transgender She/Her. They/Them are also OK(I don't care much about pronouns).
 * 🎓 18 years old, Just finished high school.
