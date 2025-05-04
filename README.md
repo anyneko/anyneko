@@ -1,14 +1,14 @@
-## Hi, I'm Katahasi Aneko!
+## Hi, I'm Hoshiko Kitahasi!
 > 只是一条无名的咸鱼罢了。   
 > Just a nameless salted fish.
 
 * 🐱 You can call me "任意猫" or "大猫猫" in Chinese.
 
 * 🏳️‍⚧️ Transgender She/Her. They/Them are also OK(I don't care much about pronouns).
-* 🎓 18 years old, Just finished high school.
+* 🎓 19 years old, Just finished high school.
 * 💻 C++/Python(although I have forgotten part of them over time). I'll try to pick them up and learn something new.
 * 🌐 Chinese(Mandarin), English.
-* ❄️ Regretfully, I don't use NixOS or eweOS(). I use Debian and KDE Plasma and enjoy them.
+* ❄️ Regretfully, I don't use NixOS or eweOS(). I use ~~Debian~~ AOSC OS and KDE Plasma and enjoy them.
 * 💊 I suffer from bipolar disorder and ASD, and I apologize for any bad experiences this may have caused.
 * 🟢 Ingress Enlightment Agent.
 * 🎮 Maimai DX / Chunithm / Wangan MMT Player.
