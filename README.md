@@ -1,4 +1,4 @@
-## Hi, I'm Hoshiko Kitahasi!
+## Hi, I'm Ameyama Mio!
 > 只是一条无名的咸鱼罢了。   
 > Just a nameless salted fish.
 
